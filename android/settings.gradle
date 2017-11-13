@@ -1,0 +1,3 @@
+rootProject.name = 'MediumSwiftNativeExample'
+
+include ':app'
